@@ -1,2 +1,7 @@
-# ML_Group9
-Comparison of Support Vector Classifiers and Decision Trees in Fradulent Employment Offers’ Detection
+# Comparison of Support Vector Classifiers and Decision Trees in Fradulent Employment Offers’ Detection
+
+Thanks to the current digital era, online job searching has become the most common way of job seeking, since it is the fastest and easiest way to gain access to all kinds of job offers from different backgrounds. However, it is far from being a safe environment, as it is hard to detect whether an offer is, in fact, genuine. 
+
+Scam activity has been noticeably risen throughout the years, thanks largely to the anonymity that the internet offers. These spurious agents commonly post promising opportunities on job boards, sometimes in the name of reputable recruiters, companies or firms, which target vulnerable or desperate job seekers. These cyber criminals deceive victims into believing they have a job or a potential offer, and leverage their position as “employers” to persuade victims to provide them with their personal identifiable information, which can be used for many nefarious purposes, and thus becoming subjects of identity and money theft. This matter is also concerning for companies whose identity has been stolen for illegal purposes. 
+
+Cyber criminals often request the same information as legitimate employers, making it difficult to discern the legitimacy of the offer until it is already too late. To address this problem, the present project aims to develop a machine learning based solution which enables users to automatically detect whether an employment posting on the internet is fraudulent or not. The system will be trained on previous legitimate and non-legitimate job offers, and will use classification techniques to recognize offer genuinity.
